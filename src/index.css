@@ -1,0 +1,10 @@
+.BUTTON{
+    padding:20px;
+    font-size:3em; 
+    border: none ;
+    border-radius:10px;
+    background-color:cyan;
+}
+.BUTTON:hover {
+    background-color: rgb(31, 237, 52);
+}
