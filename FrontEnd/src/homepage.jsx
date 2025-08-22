@@ -3,6 +3,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import './index.css';
 
+//this is a comment to check a git error
 function Homepage() {
     const textColor = "cyan";
     const [objects, setobjects] = useState([
