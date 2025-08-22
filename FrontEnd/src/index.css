@@ -8,3 +8,7 @@
 .BUTTON:hover {
     background-color: rgb(31, 237, 52);
 }
+body {
+  background-color: black; 
+  margin: 0; 
+}
